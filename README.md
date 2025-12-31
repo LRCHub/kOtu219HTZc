@@ -1,0 +1,58 @@
+# Porter Robinson – Everything To Me
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Two, two, three, four
+Strobe lights, heart signs
+Then it's over, it's over
+But half my long life
+You were with me,
+it went quickly
+It's you
+And me
+And the air in between
+Mm-mm
+All of me
+And all of you
+Nothing else in the room.
+Saw me fondly
+You don't know me,
+but you know me
+I guard my soft mind
+'Cause I have to, didn't want to
+And it's you
+And me
+And the air in between
+Mm-mm
+All of me
+And all of you
+Nothing else in the room
+(This seems like
+it's everything to me)
+If this is goodbye,
+if I won't see you again
+Waiting on a corner
+with your phone in hand
+If irony is a virtue,
+maybe I should be king
+Crush me like a plushie,
+I'll be one of your things
+And maybe I'm addicted
+to the look in your eyes
+It's hard to say
+you've had enough
+when you get this high
+I shouldn't say I love you,
+I don't know your name
+But I just say it anyway
+'cause it feels the same
+when it's you
+And me
+And the air in between
+Mm-mm
+All of me and all of you
+Nothing else in the room
+(This seems like
+it's everything to me)
+```
