@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Everything To Me",
+  "base_artist": "Porter Robinson",
+  "createdAt": "2025-12-31T13:29:30.878607Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You Mean Everything to Me",
+      "artist": "Curtis Mayfield",
+      "has_synced": false,
+      "path": "select/01_You_Mean_Everything_to_Me_Curtis_Mayfield.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You Mean Everything to Me",
+      "artist": "Black Ivory",
+      "has_synced": false,
+      "path": "select/02_You_Mean_Everything_to_Me_Black_Ivory.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Mean Everything to Me",
+      "artist": "Avenue X",
+      "has_synced": false,
+      "path": "select/03_You_Mean_Everything_to_Me_Avenue_X.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Everything To Me",
+      "artist": "Liz Phair",
+      "has_synced": true,
+      "path": "select/04_Everything_To_Me_Liz_Phair.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Just Leave Everything To Me",
+      "artist": "Jerry Herman feat. Barbra Streisand",
+      "has_synced": true,
+      "path": "select/05_Just_Leave_Everything_To_Me_Jerry_Herman_feat._Barbra_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Just Leave Everything To Me",
+      "artist": "Barbra Streisand",
+      "has_synced": true,
+      "path": "select/06_Just_Leave_Everything_To_Me_Barbra_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Mean Everything to Me",
+      "artist": "Shawn Mullins",
+      "has_synced": false,
+      "path": "select/07_You_Mean_Everything_to_Me_Shawn_Mullins.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Soul's Core - 12 - You Mean Everything To Me",
+      "artist": "Shawn Mullins",
+      "has_synced": false,
+      "path": "select/08_Soul's_Core_-_12_-_You_Mean_Everything_To_Me_Shawn_Mullins.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You Mean Everything to Me",
+      "artist": "Neil Sedaka",
+      "has_synced": true,
+      "path": "select/09_You_Mean_Everything_to_Me_Neil_Sedaka.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Mean Everything to Me",
+      "artist": "Neil Sedaka",
+      "has_synced": false,
+      "path": "select/10_You_Mean_Everything_to_Me_Neil_Sedaka.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "She's Everything To Me",
+      "artist": "Barry White",
+      "has_synced": false,
+      "path": "select/11_She's_Everything_To_Me_Barry_White.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Everything To Me",
+      "artist": "Shane Filan",
+      "has_synced": true,
+      "path": "select/12_Everything_To_Me_Shane_Filan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Your Love - Means Everything To Me",
+      "artist": "Charles Wright & The Watts 103rd Street Rhythm Band",
+      "has_synced": false,
+      "path": "select/13_Your_Love_-_Means_Everything_To_Me_Charles_Wright_&_The_Watts_103rd_Street_Rhythm_Band.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "She Means Everything To Me",
+      "artist": "Chris de Burgh",
+      "has_synced": true,
+      "path": "select/14_She_Means_Everything_To_Me_Chris_de_Burgh.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Everything To Me",
+      "artist": "Kid Rock",
+      "has_synced": false,
+      "path": "select/15_Everything_To_Me_Kid_Rock.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Everything To Me",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/pl_01_Everything_To_Me_Porter_Robinson.txt"
+    }
+  ]
+}
